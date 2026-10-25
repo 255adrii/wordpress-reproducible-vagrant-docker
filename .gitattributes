@@ -1,0 +1,3 @@
+# Evita que Windows convierta los scripts a CRLF (rompería el provisionado en la VM Linux)
+* text=auto
+*.sh text eol=lf
