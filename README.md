@@ -77,6 +77,3 @@ Todas las credenciales viven en `.env` (que **no** se sube al repositorio). Las 
 - Copias de seguridad automáticas de la base de datos
 - Pipeline de CI que valide `docker compose config`
 
-## Licencia
-
-Pendiente de añadir (por ejemplo MIT).
